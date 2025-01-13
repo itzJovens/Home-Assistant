@@ -3,6 +3,15 @@ Home Assistant Project currently running in my Home for an easier and streamline
 
 ![image](https://github.com/user-attachments/assets/8d71c5ba-3540-4ca6-9454-f115d5118a7f)
 
+Iot and Network Devices connected to Home Assistant: 
+
+Smart Light Bulbs
+Smart Light Switches
+Smart Thermostat
+Printer
+Playstation 4 & 5
+PC via Wake On Lan
+LG TV
 
 Home Network Project utilizing Home Assistant on a Raspberry Pi 3. 
 
@@ -14,4 +23,8 @@ Configured and organized Home Assistant devices across multiple Apple HomeKit Br
 ![image](https://github.com/user-attachments/assets/97f66bcd-a09a-4115-8873-b866cf353d6f)
 
 Automations set to trigger different lighsts around the house by Wifi-enabled switches to toggle them on/off
+
+Future Additions:  
+
+Wall mounted tablet similar to first screen shot, for overall control of devices from one centralized spot.
 
