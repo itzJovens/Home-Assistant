@@ -10,3 +10,6 @@ Integrated a Zigbee Dongle acting as a Zigbee Gateway to enable local connectivi
 devices within Home Assistant. 
 
 Configured and organized Home Assistant devices across multiple Apple HomeKit Bridges for streamlined control via Apple Devices.
+
+![image](https://github.com/user-attachments/assets/97f66bcd-a09a-4115-8873-b866cf353d6f)
+
