@@ -5,6 +5,8 @@ Home Network Project utilizing Home Assistant on a Raspberry Pi 3.
 
 ![image](https://github.com/user-attachments/assets/1e04cb74-0cab-4e32-9468-d3808b02cb1e)
 
+![image](https://github.com/user-attachments/assets/3a52cc50-f490-4f88-8d4d-efbf58daad6b)
+
 
 Iot and Network Devices connected to Home Assistant: 
 
