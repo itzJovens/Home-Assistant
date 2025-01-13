@@ -6,12 +6,19 @@ Home Assistant Project currently running in my Home for an easier and streamline
 Iot and Network Devices connected to Home Assistant: 
 
 Smart Light Bulbs
+
 Smart Light Switches
+
 Smart Thermostat
+
 Printer
+
 Playstation 4 & 5
+
 PC via Wake On Lan
+
 LG TV
+
 
 Home Network Project utilizing Home Assistant on a Raspberry Pi 3. 
 
