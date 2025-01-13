@@ -1,9 +1,12 @@
 # Home-Assistant
 Home Assistant Project currently running in my Home for an easier and streamlined management of various IOT devices
 
-![image](https://github.com/user-attachments/assets/8d71c5ba-3540-4ca6-9454-f115d5118a7f)
+Home Network Project utilizing Home Assistant on a Raspberry Pi 3. 
 
-**Iot and Network Devices connected to Home Assistant: **
+![image](https://github.com/user-attachments/assets/1e04cb74-0cab-4e32-9468-d3808b02cb1e)
+
+
+Iot and Network Devices connected to Home Assistant: 
 
   Smart Light Bulbs
 
@@ -19,8 +22,6 @@ Home Assistant Project currently running in my Home for an easier and streamline
 
   LG TV
 
-
-Home Network Project utilizing Home Assistant on a Raspberry Pi 3. 
 
 Integrated a Zigbee Dongle acting as a Zigbee Gateway to enable local connectivity with Zigbee licensed 
 devices within Home Assistant. 
