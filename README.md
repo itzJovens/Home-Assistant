@@ -32,6 +32,8 @@ Configured and organized Home Assistant devices across multiple Apple HomeKit Br
 
 Automations set to trigger different lighsts around the house by Wifi-enabled switches to toggle them on/off
 
+![image](https://github.com/user-attachments/assets/199bcbcc-4945-4853-9488-19ac674ae7db)
+
 Future Additions:  
 
 Wall mounted tablet similar to first screen shot, for overall control of devices from one centralized spot.
