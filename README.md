@@ -26,7 +26,7 @@ Iot and Network Devices connected to Home Assistant:
 
 
 
-Configured and organized Home Assistant devices across multiple Apple HomeKit Bridges for streamlined control via Apple Devices.
+Configured and organized Home Assistant devices across multiple Apple HomeKit Bridges. Allows for streamlined control of non-homekit devices via Apple Devices.
 
 ![image](https://github.com/user-attachments/assets/97f66bcd-a09a-4115-8873-b866cf353d6f)
 
